@@ -1,0 +1,8 @@
+C:\Jenkins\msbuild_project\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Jenkins\msbuild_project\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Jenkins\msbuild_project\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Jenkins\msbuild_project\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Jenkins\msbuild_project\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Jenkins\msbuild_project\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Jenkins\msbuild_project\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Jenkins\msbuild_project\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
